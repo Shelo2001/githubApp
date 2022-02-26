@@ -7,6 +7,5 @@ function Home() {
       <UserResults/>
     </>
   )
-}
-
+} 
 export default Home
